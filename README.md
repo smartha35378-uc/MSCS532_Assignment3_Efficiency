@@ -1,3 +1,5 @@
+## Assignment 3: Understanding Algorithm Efficiency and Scalability
+
 This repository contains implementations and empirical evaluations for:
 
 - Randomized and deterministic Quicksort (`src/quicksort.py`) 
